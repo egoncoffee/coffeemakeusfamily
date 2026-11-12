@@ -1,0 +1,17 @@
+{
+  "file": "EGON_WORDMARK_ORIGINAL.png",
+  "sha256": "301dc7c06831daad76a849775ecd7bab2711af7b0ec335ee9c33f9caff1159ad",
+  "provenance": "Owner supplied the complete EGON COFFEE logo in this chat, 12 November 2026",
+  "unaltered_source": true,
+  "allowed_layout": "Proportional display scaling only; no crop, recolour or redraw",
+  "previous_assets": [
+    {
+      "file": "EGON_SYMBOL_ORIGINAL.png",
+      "sha256": "ce4cb70604eb48ac37712c72e17b74f9149371ec1dffb1b4fffcc5a5394b1bf7",
+      "provenance": "Owner-supplied canonical logo in this EGON chat, 12 November 2026",
+      "unaltered_source": true,
+      "allowed_layout": "Proportional display scaling only; no crop, recolour or redraw"
+    }
+  ],
+  "display_color_management": "Honor embedded ICC for sRGB video display; canonical master, geometry and alpha remain unchanged"
+}

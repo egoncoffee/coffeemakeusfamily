@@ -1,0 +1,9 @@
+{
+  "source": "Owner instruction in this chat, 2026-11-12 Asia/Jakarta",
+  "scope": "Creative product names and roast labels only; not an active stock or price catalogue",
+  "products": [
+    {"id": "flores-wae-rebo", "name": "Flores Wae Rebo", "roast": "Medium Roast"},
+    {"id": "flores-inerie", "name": "Flores Inerie", "roast": "Full City Roast"},
+    {"id": "komodo-dragon-blend", "name": "Komodo Dragon Blend", "roast": "Espresso Roast"}
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "kind": "animated",
+  "data_class": "ENGINEERING_FIXTURE",
+  "title": "Kopimu pernah berupa buah",
+  "language": "id-ID",
+  "target_seconds": 36,
+  "level": "BASIC",
+  "egon_test_ref": null,
+  "visual_prompt": "Original Nara bean guide: rounded coffee-brown body, warm expressive eyes, purple apron and orange button. Cream exploration studio, soft 3D forms, readable visual transformations from red coffee fruit to green seeds to roast and cup. CTMVerse is an unverified benchmark name only: copy no artwork, character, camera sequence or sound. Do not draw the EGON logo or depict a physical EGON laboratory. Use only the separately registered canonical logo in final editing.",
+  "gates": {
+    "EDITORIAL_FIT": "PASS",
+    "INSPIRATION_FIT": "PASS",
+    "TRUTHFUL_AUTHORITY": "PASS",
+    "NOVELTY": "PASS"
+  },
+  "novelty_review": {
+    "reason": "Engineering fixture excluded from the publishing calendar, audience learning progression and production content mix. It is not asserted to be a new production angle."
+  },
+  "research_reviewed_by": "Source check during engineering implementation, 2026-11-12",
+  "sources": [
+    {
+      "url": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+      "publisher": "National Coffee Association",
+      "title": "What is coffee?",
+      "published_on": null,
+      "event_or_data_date": "Undated educational definitions",
+      "checked_at": "2026-11-12",
+      "opened": true,
+      "claim_ids": [
+        "COFFEE_IS_SEED",
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "scope": "Coffee beans are seeds inside coffee fruit; drying, roasting, grinding and brewing. No botanical yield, health, caffeine or EGON product claims."
+    },
+    {
+      "url": "https://www.fao.org/4/ae939e/ae939e08.htm",
+      "publisher": "FAO",
+      "title": "Arabica coffee manual for Lao PDR — harvesting and processing",
+      "published_on": null,
+      "event_or_data_date": "Historical educational manual; not current market evidence",
+      "checked_at": "2026-11-12",
+      "opened": true,
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "scope": "Processing coffee fruit produces green coffee ready for roasting. No universal process quality ranking is adopted."
+    }
+  ],
+  "shots": [
+    {
+      "scene": "cherry",
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "narration": [
+        "Sebelum menjadi kopi di cangkirmu, bentuknya bukan biji cokelat.",
+        "Kopi bermula dari buah. Biji yang kita kenal ada di dalamnya."
+      ]
+    },
+    {
+      "scene": "green",
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "narration": [
+        "Setelah dipanen, buah kopi diproses untuk mendapatkan bijinya.",
+        "Biji yang belum disangrai dikenal sebagai kopi hijau."
+      ]
+    },
+    {
+      "scene": "roast",
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "narration": [
+        "Biji itu kemudian disangrai sebelum menjadi bahan seduhan.",
+        "Jadi, biji di kemasanmu sudah melewati beberapa perubahan bentuk."
+      ]
+    },
+    {
+      "scene": "brew",
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "narration": [
+        "Biji yang disangrai digiling, lalu diseduh menjadi minuman.",
+        "Ada perjalanan dari buah sampai secangkir kopi yang kamu nikmati."
+      ]
+    },
+    {
+      "scene": "explore",
+      "claim_ids": [],
+      "narration": [
+        "Saat ngopi berikutnya, bayangkan perjalanan kecil itu.",
+        "Dunia kopi bisa mulai kamu jelajahi dari satu pertanyaan sederhana."
+      ]
+    }
+  ],
+  "visual_asset_version": "1.1 — visible friendly smile and brighter studio lighting"
+}

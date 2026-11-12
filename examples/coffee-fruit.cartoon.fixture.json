@@ -1,0 +1,228 @@
+{
+  "canonical_logo_sha256": "301dc7c06831daad76a849775ecd7bab2711af7b0ec335ee9c33f9caff1159ad",
+  "data_class": "ENGINEERING_FIXTURE",
+  "editorial_direction": "EGON as an original Indonesian coffee-industry media brand for Gen Z; knowledge reveal, no hard-sell or implied EGON laboratory tests.",
+  "egon_test_ref": null,
+  "gates": {
+    "EDITORIAL_FIT": "PASS",
+    "INSPIRATION_FIT": "PASS",
+    "NOVELTY": "PASS",
+    "TRUTHFUL_AUTHORITY": "PASS"
+  },
+  "kind": "animated",
+  "language": "id-ID",
+  "level": "BASIC",
+  "novelty_review": {
+    "reason": "Full-length visual/script revision of the same engineering lesson under the same production_id; not a new daily insight or publication claim."
+  },
+  "production_id": "VIDEO-2a4a0a918a3f129bcfee50ab",
+  "research_reviewed_by": "Source verification against opened NCA, FAO and SCA educational pages, 12 November 2026",
+  "schema_version": 1,
+  "shots": [
+    {
+      "scene": "cherry",
+      "duration_seconds": 3,
+      "label": "KOPI ITU BUAH!",
+      "narration": [
+        "Plot twist! Kopi itu buah."
+      ],
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "motion_plan": {
+        "primary_action": "Fruit enters and settles expressively",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "KOPI ITU BUAH!"
+      }
+    },
+    {
+      "scene": "cherry",
+      "duration_seconds": 5,
+      "label": "BIJI DI DALAM BUAH",
+      "narration": [
+        "Di dalamnya ada biji kopi.",
+        "Inilah yang nantinya diolah."
+      ],
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "motion_plan": {
+        "primary_action": "Fruit opens; pointers identify the seeds",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "BIJI DI DALAM BUAH"
+      }
+    },
+    {
+      "scene": "green",
+      "duration_seconds": 6,
+      "label": "DIPROSES DAN DIKERINGKAN",
+      "narration": [
+        "Buahnya diproses.",
+        "Bijinya dikeringkan sebelum disangrai."
+      ],
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "motion_plan": {
+        "primary_action": "Seeds settle into a tray; schematic moisture cues recede",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "DIPROSES DAN DIKERINGKAN"
+      }
+    },
+    {
+      "scene": "roast",
+      "duration_seconds": 7,
+      "label": "SANGRAI MEMBENTUK AROMA",
+      "narration": [
+        "Panas sangrai mengubah warna biji.",
+        "Aroma khas kopi ikut terbentuk."
+      ],
+      "claim_ids": [
+        "ROAST_COLOUR_AROMA"
+      ],
+      "motion_plan": {
+        "primary_action": "Seeds tumble in a schematic pan and change green to brown",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "SANGRAI MEMBENTUK AROMA"
+      }
+    },
+    {
+      "scene": "grind",
+      "duration_seconds": 7,
+      "label": "GILING SESUAI METODE",
+      "narration": [
+        "Biji sangrai lalu digiling.",
+        "Ukuran bubuknya disesuaikan dengan metode seduh."
+      ],
+      "claim_ids": [
+        "GRIND_FOR_METHOD"
+      ],
+      "motion_plan": {
+        "primary_action": "One burr rotates, whole beans enter and smaller particles exit",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "GILING SESUAI METODE"
+      }
+    },
+    {
+      "scene": "brew",
+      "duration_seconds": 8,
+      "label": "AIR MEMBAWA RASA",
+      "narration": [
+        "Saat diseduh, air mengambil zat yang larut dari bubuk kopi.",
+        "Inilah yang masuk ke cangkirmu."
+      ],
+      "claim_ids": [
+        "WATER_EXTRACTS_SOLUBLES"
+      ],
+      "motion_plan": {
+        "primary_action": "Water contacts the bed; brewed stream fills the cup while grounds stay above",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "AIR MEMBAWA RASA"
+      }
+    },
+    {
+      "scene": "explore",
+      "duration_seconds": 8,
+      "label": "SEBUTKAN ALAT SEDUHMU",
+      "narration": [
+        "Saat beli kopi bubuk, sebutkan alat seduhmu.",
+        "Kamu paling penasaran proses yang mana?"
+      ],
+      "claim_ids": [
+        "GRIND_FOR_METHOD"
+      ],
+      "motion_plan": {
+        "primary_action": "Compare two stylised brewing tools and invite the next question",
+        "camera": "Mobile-safe object close-up with a purposeful short push",
+        "learning_purpose": "SEBUTKAN ALAT SEDUHMU"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "National Coffee Association",
+      "title": "What is coffee?",
+      "url": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "scope": "Beans are seeds in coffee fruit; no universal two-seed claim.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    },
+    {
+      "publisher": "National Coffee Association",
+      "title": "Processes",
+      "url": "https://www.aboutcoffee.org/beans/processes/",
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "scope": "Processing includes drying and removing fruit layers before roasting; the animation is not a universal ordering of every post-harvest method.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    },
+    {
+      "publisher": "FAO",
+      "title": "Arabica coffee manual — harvesting and processing",
+      "url": "https://www.fao.org/4/ae939e/ae939e08.htm",
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "scope": "Historical primary extension manual; dried green coffee is prepared for roasting. Not a current trend.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    },
+    {
+      "publisher": "National Coffee Association",
+      "title": "Roasts",
+      "url": "https://www.aboutcoffee.org/beans/roasts/",
+      "claim_ids": [
+        "ROAST_COLOUR_AROMA"
+      ],
+      "scope": "Heat turns green beans brown and develops coffee aroma. No universal time, temperature, resting period or product-specific roast claim.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    },
+    {
+      "publisher": "National Coffee Association",
+      "title": "Pour-over coffee",
+      "url": "https://www.aboutcoffee.org/brewing/pour-over-coffee/",
+      "claim_ids": [
+        "GRIND_FOR_METHOD"
+      ],
+      "scope": "Grind selection starts with brewing method; advice to tell the seller the brewing tool is the practical application. No exact grind setting or universal ratio.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    },
+    {
+      "publisher": "Specialty Coffee Association",
+      "title": "Coffee Decoded: The Chemistry of Decaffeination",
+      "url": "https://sca.coffee/sca-news/coffee-decoded-21-chemistry-of-decaf",
+      "claim_ids": [
+        "WATER_EXTRACTS_SOLUBLES"
+      ],
+      "scope": "Scope limited to water as solvent and water-soluble coffee compounds entering the cup; no decaf, health or extraction percentage claim.",
+      "opened": true,
+      "checked_at": "2026-11-12",
+      "published_on": null,
+      "event_or_data_date": "Educational source; no current-trend claim; publication year not inferred"
+    }
+  ],
+  "target_seconds": 44,
+  "title": "Dari buah ke cangkirmu",
+  "visual_asset_version": "4.0 colourful cartoon full 44-second explainer",
+  "visual_prompt": "Original colourful cartoon explainer for Gen Z. Lavender/lime fruit entrance and yellow cutaway; mint processing/drying diagram; coral roasting with changing beans; lavender moving burr diagram with falling grounds; sky-blue pour-over with grounds retained in the dripper and rising coffee in the cup; mint practical close showing two brewing tools. Camera, movement, arrows and short labels explain each step. Complete original EGON logo is composed separately, unchanged and profile-managed. No dark studio mascot, reference artwork, laboratory claim or product specification.",
+  "visual_style": "cartoon_explainer_v3",
+  "motion_plan_reviewed_by": "Coordinator: original coffee-specific motion plan reviewed against two public reference samples, 12 November 2026",
+  "delivery_scope": "FULL_EPISODE"
+}

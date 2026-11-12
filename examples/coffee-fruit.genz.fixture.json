@@ -1,0 +1,121 @@
+{
+  "canonical_logo_sha256": "301dc7c06831daad76a849775ecd7bab2711af7b0ec335ee9c33f9caff1159ad",
+  "data_class": "ENGINEERING_FIXTURE",
+  "editorial_direction": "EGON as an original Indonesian coffee-industry media brand for Gen Z; knowledge reveal, no hard-sell or implied EGON laboratory tests.",
+  "egon_test_ref": null,
+  "gates": {
+    "EDITORIAL_FIT": "PASS",
+    "INSPIRATION_FIT": "PASS",
+    "NOVELTY": "PASS",
+    "TRUTHFUL_AUTHORITY": "PASS"
+  },
+  "kind": "animated",
+  "language": "id-ID",
+  "level": "BASIC",
+  "novelty_review": {
+    "reason": "Engineering fixture excluded from the publishing calendar, audience learning progression and production content mix. It is not asserted to be a new production angle."
+  },
+  "production_id": "VIDEO-2a4a0a918a3f129bcfee50ab",
+  "research_reviewed_by": "Source check during engineering implementation, 2026-11-12",
+  "schema_version": 1,
+  "shots": [
+    {
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "label": "BUAH DULU, KOPI KEMUDIAN",
+      "narration": [
+        "Kopi itu buah? Yang biasa kita sebut biji kopi, justru ada di dalam buahnya.",
+        "Sebelum sampai ke cangkirmu, perjalanan kopi dimulai dari sini."
+      ],
+      "scene": "cherry"
+    },
+    {
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "label": "KENALAN DENGAN KOPI HIJAU",
+      "narration": [
+        "Setelah dipanen, buah kopi diproses untuk mendapatkan bijinya.",
+        "Biji yang belum disangrai dikenal sebagai kopi hijau. Bentuknya belum seperti kopi di kemasan."
+      ],
+      "scene": "green"
+    },
+    {
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "label": "DARI HIJAU KE SANGRAI",
+      "narration": [
+        "Berikutnya, biji disangrai. Inilah salah satu tahap sebelum kopi bisa diseduh.",
+        "Dari buah, menjadi biji, lalu disangrai. Kopi punya perjalanan yang panjang."
+      ],
+      "scene": "roast"
+    },
+    {
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "label": "GILING, SEDUH, NIKMATI",
+      "narration": [
+        "Setelah disangrai, bijinya digiling lalu diseduh menjadi minuman.",
+        "Jadi, kamu menikmati seduhan dari biji buah kopi. Bukan daging buahnya."
+      ],
+      "scene": "brew"
+    },
+    {
+      "claim_ids": [],
+      "label": "SATU CANGKIR, BANYAK CERITA",
+      "narration": [
+        "Sekarang, secangkir kopi punya cerita baru: perjalanan dari buah sampai seduhan.",
+        "Bagian mana yang bikin kamu penasaran? Simpan ini, lalu jelajahi dunia kopi bareng EGON."
+      ],
+      "scene": "explore"
+    }
+  ],
+  "sources": [
+    {
+      "checked_at": "2026-11-12",
+      "claim_ids": [
+        "COFFEE_IS_SEED",
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "event_or_data_date": "Undated educational definitions",
+      "opened": true,
+      "published_on": null,
+      "publisher": "National Coffee Association",
+      "scope": "Coffee beans are seeds inside coffee fruit; drying, roasting, grinding and brewing. No botanical yield, health, caffeine or EGON product claims.",
+      "title": "What is coffee?",
+      "url": "https://www.aboutcoffee.org/origins/what-is-coffee/"
+    },
+    {
+      "checked_at": "2026-11-12",
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "event_or_data_date": "Historical educational manual; not current market evidence",
+      "opened": true,
+      "published_on": null,
+      "publisher": "FAO",
+      "scope": "Processing coffee fruit produces green coffee ready for roasting. No universal process quality ranking is adopted.",
+      "title": "Arabica coffee manual for Lao PDR — harvesting and processing",
+      "url": "https://www.fao.org/4/ae939e/ae939e08.htm"
+    }
+  ],
+  "target_seconds": 36,
+  "title": "Kopi itu buah?",
+  "visual_asset_version": "2.2 — complete original EGON COFFEE wordmark, embedded ICC honoured for video display; canonical master unchanged",
+  "visual_prompt": "Original Nara bean guide: rounded coffee-brown body, warm expressive eyes, purple apron and orange button. Cream exploration studio, soft 3D forms, readable visual transformations from red coffee fruit to green seeds to roast and cup. CTMVerse is an unverified benchmark name only: copy no artwork, character, camera sequence or sound. Do not draw the EGON logo or depict a physical EGON laboratory. Use only the separately registered canonical logo in final editing.",
+  "branding_revision": {
+    "parent_job_id": "EGON-VIDEO-764b2e7ccb2ee029",
+    "parent_output_sha256": "efbf3a6924c5b9a7ab66cdb85e2df2eb5d5f6a64cada86670c74c8244e38b6cf",
+    "content_changes": false,
+    "reuse_inputs": {
+      "animation.mp4": "9bb20007b0b6bd65215eda546c3483005e5687c42adc1bad63be6f2fa7941584",
+      "voiceover.wav": "ee92f81e7e16dc8c9e8e1d86fdd4265046f9d31dfa990ba2738b9792e9c647e6",
+      "timeline.json": "a659618b26c77cdb438e62940cbbbf324bea36ee147b7d516fb30925594fb177",
+      "blender-provenance.json": "3e87dd0ef727945ec0ba555f368da20358394afc049d01683b4cb5d9e556f3a9"
+    },
+    "display_color_management": "embedded ICC to sRGB for display; original asset bytes preserved"
+  }
+}

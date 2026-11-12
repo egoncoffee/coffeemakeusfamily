@@ -1,0 +1,168 @@
+{
+  "canonical_logo_sha256": "301dc7c06831daad76a849775ecd7bab2711af7b0ec335ee9c33f9caff1159ad",
+  "data_class": "ENGINEERING_FIXTURE",
+  "editorial_direction": "EGON as an original Indonesian coffee-industry media brand for Gen Z; knowledge reveal, no hard-sell or implied EGON laboratory tests.",
+  "egon_test_ref": null,
+  "gates": {
+    "EDITORIAL_FIT": "PASS",
+    "INSPIRATION_FIT": "PASS",
+    "NOVELTY": "PASS",
+    "TRUTHFUL_AUTHORITY": "PASS"
+  },
+  "kind": "animated",
+  "language": "id-ID",
+  "level": "BASIC",
+  "novelty_review": {
+    "reason": "Motion/storytelling revision of the same engineering lesson and production_id, not a fresh daily topic or a published audience-learning step."
+  },
+  "production_id": "VIDEO-2a4a0a918a3f129bcfee50ab",
+  "research_reviewed_by": "Source check during engineering implementation, 2026-11-12",
+  "schema_version": 1,
+  "shots": [
+    {
+      "scene": "cherry",
+      "label": "DIMULAI DARI BUAH",
+      "narration": [
+        "Biji kopi itu ternyata",
+        "berasal dari buah."
+      ],
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "motion_plan": {
+        "primary_action": "Reveal the whole fruit before the cutaway",
+        "camera": "Slow close-up of the fruit",
+        "learning_purpose": "Connect a familiar drink to its fruit origin"
+      }
+    },
+    {
+      "scene": "cherry",
+      "label": "LIHAT BAGIAN DALAM",
+      "narration": [
+        "Biji yang kita kenal",
+        "ada di dalam buah kopi."
+      ],
+      "claim_ids": [
+        "COFFEE_IS_SEED"
+      ],
+      "motion_plan": {
+        "primary_action": "Separate two skin halves and reveal the seeds",
+        "camera": "Orbit slightly toward the opened centre",
+        "learning_purpose": "Explain where the seed is, not decorative bouncing"
+      }
+    },
+    {
+      "scene": "green",
+      "label": "SEBELUM DISANGRAI",
+      "narration": [
+        "Buah kopi diproses untuk mendapatkan bijinya.",
+        "Biji siap sangrai dikenal sebagai kopi hijau."
+      ],
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "motion_plan": {
+        "primary_action": "Keep extracted green seeds in focus",
+        "camera": "Push toward one seed group",
+        "learning_purpose": "Separate the fruit-processing stage from roasting"
+      }
+    },
+    {
+      "scene": "roast",
+      "label": "LALU DISANGRAI",
+      "narration": [
+        "Biji itu disangrai",
+        "sebelum digiling untuk seduhan."
+      ],
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "motion_plan": {
+        "primary_action": "Green-to-brown illustrative roast transition with heat cues",
+        "camera": "Close view of the changing seeds",
+        "learning_purpose": "Show the sequence without universal time or temperature claims"
+      }
+    },
+    {
+      "scene": "grind",
+      "label": "DARI BIJI KE BUBUK",
+      "narration": [
+        "Setelah disangrai,",
+        "bijinya digiling."
+      ],
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "motion_plan": {
+        "primary_action": "Schematic annular grinding surfaces turn; seeds enter and particles fall",
+        "camera": "View the simplified grinding action",
+        "learning_purpose": "Show whole seed becoming smaller grounds; not an equipment specification"
+      }
+    },
+    {
+      "scene": "brew",
+      "label": "KEMUDIAN DISEDUH",
+      "narration": [
+        "Bubuknya diseduh menjadi minuman.",
+        "Inilah salah satu contoh seduhannya."
+      ],
+      "claim_ids": [
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "motion_plan": {
+        "primary_action": "One schematic pour-over illustrates water and coffee entering the cup",
+        "camera": "Pull back to reveal dripper and cup",
+        "learning_purpose": "Show brewing as one example, not a universal recipe"
+      }
+    },
+    {
+      "scene": "explore",
+      "label": "BUAH KE CANGKIR",
+      "narration": [
+        "Dari buah sampai cangkir.",
+        "Proses mana yang bikin kamu penasaran?"
+      ],
+      "claim_ids": [],
+      "motion_plan": {
+        "primary_action": "Reveal the cup and small original guide",
+        "camera": "Conclude with a short widening move",
+        "learning_purpose": "Invite the next useful question without a prolonged static ending"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "checked_at": "2026-11-12",
+      "claim_ids": [
+        "COFFEE_IS_SEED",
+        "DRIED_ROASTED_GROUND_BREWED"
+      ],
+      "event_or_data_date": "Undated educational definitions",
+      "opened": true,
+      "published_on": null,
+      "publisher": "National Coffee Association",
+      "scope": "Coffee beans are seeds inside coffee fruit; drying, roasting, grinding and brewing. No botanical yield, health, caffeine or EGON product claims.",
+      "title": "What is coffee?",
+      "url": "https://www.aboutcoffee.org/origins/what-is-coffee/"
+    },
+    {
+      "checked_at": "2026-11-12",
+      "claim_ids": [
+        "FRUIT_TO_GREEN_BEAN"
+      ],
+      "event_or_data_date": "Historical educational manual; not current market evidence",
+      "opened": true,
+      "published_on": null,
+      "publisher": "FAO",
+      "scope": "Processing coffee fruit produces green coffee ready for roasting. No universal process quality ranking is adopted.",
+      "title": "Arabica coffee manual for Lao PDR — harvesting and processing",
+      "url": "https://www.fao.org/4/ae939e/ae939e08.htm"
+    }
+  ],
+  "target_seconds": 36,
+  "title": "Kopi berawal dari buah",
+  "visual_asset_version": "3.4 — object-focused explainer, clean pour-over, unobscured closing guide, CTA above cup and contrasting original-logo backing",
+  "visual_prompt": "Original EGON 3D coffee explainer: dark purple teaching stage, warm lighting, object close-ups and purposeful camera pushes. Coffee fruit opens to reveal seeds, green seeds lead to roasting, simplified grinding, one illustrative pour-over, then a concise curiosity close. Nara guide appears only as a small closing character. Use the original complete EGON wordmark via the registered colour-managed display pipeline. Public Motion Format examples inform general motion craft only; no course skill, artwork, shot sequence, voice or source code is copied. These are schematic illustrations, not physical EGON lab tests.",
+  "visual_style": "focus_explainer_v2",
+  "motion_plan_reviewed_by": "Coordinator: original coffee-specific motion plan reviewed against two public reference samples, 12 November 2026"
+}

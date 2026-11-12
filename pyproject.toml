@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egon-creative"
+version = "0.1.0"
+description = "Local-first EGON video production extension"
+requires-python = ">=3.10"
+dependencies = ["Pillow>=10,<14"]
+
+[project.scripts]
+egon-creative = "egon_creative.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+egon_creative = ["web/*.html", "blender/*.json"]
